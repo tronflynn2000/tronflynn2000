@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pol Morilla.
+- 👀 I’m interested in computer engineering.
+- 🌱 I’m currently learning algorithms and data structures. 
+- 📫 How to reach me: polmm16@gmail.com
